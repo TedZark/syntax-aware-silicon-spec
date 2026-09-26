@@ -7,7 +7,7 @@ Syntax-Aware Silicon technical specification: Bypassing the Memory Wall via Cont
 **Version:** 1.0 (Official Release)  
 **Author:** Theodore (Teo) Zarkadoulas  
 **Role:** Structural Hardware Architect & Idea Synthesizer  
-**Digital Identity & Verification:** [LinkedIn Profile](https://linkedin.com)
+**Digital Identity & Verification:** [[LinkedIn Profile]([https://linkedin.com](https://www.linkedin.com/in/theodore-zarkadoulas-2856a8198/))]()
 
 ---
 
@@ -42,3 +42,14 @@ The underlying control matrix has been fully emulated and validated via a functi
 This repository serves as the official, unalterable cryptographic timestamp for the **Syntax-Aware Silicon Specification**. The structural design maps, register layouts, and logic gate topologies contained herein are the sole intellectual property of Theodore Zarkadoulas. 
 
 *Academic and industry inquiries regarding implementation maps, CUDA/AVX-512 emulation layers, or research collaborations should be directed via the verified LinkedIn identity above.*
+
+---
+
+## Functional Python Emulator (PoC)
+The repository now includes `syntax_aware_silicon.py`, a functional Python control unit pipeline emulator. It aligns directly with the `REG_CFG_0` and `REG_CFG_1` specifications detailed in the whitepaper.
+
+### Quick Start & Benchmarking
+To run the emulator and view the performance metrics, execute:
+```bash
+python syntax_aware_silicon.py
+```
