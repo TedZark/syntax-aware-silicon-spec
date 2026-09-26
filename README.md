@@ -7,7 +7,7 @@ Syntax-Aware Silicon technical specification: Bypassing the Memory Wall via Cont
 **Version:** 1.0 (Official Release)  
 **Author:** Theodore (Teo) Zarkadoulas  
 **Role:** Structural Hardware Architect & Idea Synthesizer  
-**Digital Identity & Verification:** [[LinkedIn Profile]([https://linkedin.com](https://www.linkedin.com/in/theodore-zarkadoulas-2856a8198/))]()
+**Digital Identity & Verification:** [LinkedIn Profile](https://www.linkedin.com/in/theodore-zarkadoulas-2856a8198/) 
 
 ---
 
